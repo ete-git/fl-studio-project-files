@@ -4,12 +4,6 @@ A repository containing my FL Studio project files.
 
 ---
 
-## Overview
-
-This repository contains FL Studio project files for my original music.
-
----
-
 ## Contents
 
 - FL Studio project files (`.flp`)
@@ -19,31 +13,11 @@ This repository contains FL Studio project files for my original music.
 
 # Plugin Requirements
 
-This is a list of the instruments and effects used in each project.
+Here is a list of the instruments and effects used in the song (including paid plugins).
 
-While these aren't required,
-installing them will help you achieve a sound that's closer to the original.
-
----
+These aren't required, but they're handy to have installed.
 
 ## Instruments
-
-### Kontakt 8
-
-- `Komplete 15 Standard`
-  - Includes most Kontakt libraries used in these projects.
-  - *Note: ~~How much SSD space does this take? Please don't ask.~~*
-
-#### Additional Libraries
-
-- `Olympus Elements`
-- `Requiem Light`
-- `Shreddage 3 Abyss`
-- `Shreddage 3 Jupiter`
-- `Shreddage 3 Status`
-- `Shreddage Drums`
-
----
 
 ### Synthesizers
 
@@ -59,8 +33,9 @@ installing them will help you achieve a sound that's closer to the original.
 
 - `Battery 4`
 - `Addictive Drums 2`
-- `Soundworks`
+- `DW Soundworks`
 - `MODO DRUM`
+- `Shreddage Drums`
 
 ---
 
@@ -68,12 +43,18 @@ installing them will help you achieve a sound that's closer to the original.
 
 - `MODO BASS 2`
 - `EZbass`
+- `ScarBee RickenBacker Bass`
+- `Shreddage 3 Abyss`
 
 ---
 
 ### Guitars
 
 - `Ample Metal Eclipse`
+- `Session Guitarist Electric Sunburst`
+- `Session Guitarist Strummed Acoustic`
+- `Shreddage 3 Jupiter`
+- `Shreddage 3 Status`
 
 ---
 
@@ -81,23 +62,36 @@ installing them will help you achieve a sound that's closer to the original.
 
 - `EZkeys 2`
 - `No.53 Piano V2`
+- `Noire`
+- `The Grandeur`
+- `Vintage Organs`
+- `Retro Machines Mk2`
+- `Hybrid Keys`
+
+---
+
+### Orchestra
+
+- `Olympus Elements`
+- `Requiem Light`
+- `Session Horns`
+- `Session Strings 2`
+
+---
+
+### Kontakt 8
+
+- `Komplete 15 Standard`
+  - *Note: ~~Huh? You're asking how much SSD storage I need for this? Hmm... Don't ask me that.~~*
 
 ---
 
 ## Effects
 
-### Bundles
+### Compressor
 
-- `Komplete 15 Standard`
-  - Includes most Native Instruments effects used in these projects.
-  - *Note: Yes, it's Komplete 15 Standard again.*
-
----
-
-### Compression
-
-- `Teletronix LA-2A` (UAD)
-- `1176 Classic Limiter Collection` (UAD)
+- `UADx 1176 FET Compressor`
+- `UADx LA-2A Tube Compressor`
 - `OTT`
 
 ---
@@ -116,15 +110,17 @@ installing them will help you achieve a sound that's closer to the original.
 
 ---
 
-### Analysis & Metering
+### analyzer
 
 - `SPAN`
 
 ---
 
-### Multi-Effects
+### Amp simulator
 
 - `Guitar Rig 7`
+- `AmpliTube 5`
+- `Le456`
 
 ---
 
